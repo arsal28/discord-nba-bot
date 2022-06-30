@@ -5,7 +5,7 @@ A WIP coding project by Arsal Abrar.
 
 This Discord bot can grab data from any sport league's API and output the current stats of a live game. 
 
-**STATUS: Only NBA games work.**
+**Only NBA games work at the current moment.**
 
 ## Commands
 **Prefix: ,**
